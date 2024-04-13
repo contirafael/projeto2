@@ -34,3 +34,4 @@ int main() {
   fs[3](tarefas, &pos);
   return 0;
 }
+/////oi
